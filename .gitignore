@@ -2,5 +2,6 @@
 target/*
 reference/*
 *.jar
+*.zip
 src/**/MetaData.java
 **/.DS_Store
