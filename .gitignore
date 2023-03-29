@@ -1,0 +1,6 @@
+.idea/*
+target/*
+reference/*
+*.jar
+src/**/MetaData.java
+**/.DS_Store
