@@ -1,7 +1,7 @@
 # Apigee AppDynamics Agent Plugin
 
 Apigee is a little tough to instrument. The
-maintainers have gone to some extremes to keep this code a bit obfuscated. I do hope this plugin and the examples within may hep reveal a bit about that implementation. Please let me know if anything is missing.
+maintainers have gone to some extremes to keep this code a bit obfuscated. I do hope this plugin and the examples within may help reveal a bit about that implementation. Please let me know if anything is missing.
 
 Thanks, John
 
